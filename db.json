@@ -122,39 +122,5 @@
     "kanjiName": "東久邇宮 信彦王",
     "birthYear": "1945",
     "statusChange": "In 1947, lost imperial family status due to American abrogation of Japanese nobility"
-  },
-  {
-    "key": 12,
-    "parent": 11,
-    "name": "Higashikuni Yukihiko",
-    "gender": "M",
-    "fullTitle": "No Title",
-    "birthYear": "1974"
-  },
-  {
-    "key": 13,
-    "parent": 10,
-    "name": "Higashikuni Fumiko",
-    "gender": "F",
-    "fullTitle": "Princess Higashikuni Fumiko",
-    "kanjiName": "文子女王",
-    "birthYear": "1946",
-    "statusChange": "In 1947, lost imperial family status due to American abrogation of Japanese nobility"
-  },
-  {
-    "key": 14,
-    "parent": 10,
-    "name": "Higashikuni Naohiko",
-    "gender": "M",
-    "fullTitle": "No Title",
-    "kanjiName": "東久邇真彦",
-    "birthYear": "1948"
-  },
-  {
-    "key": 15,
-    "parent": 14,
-    "name": "Higashikuni Teruhiko",
-    "gender": "M",
-    "fullTitle": "No Title"
   }
 ]}
